@@ -1,0 +1,8 @@
+Copyright (c) 2026 al3ksh. All rights reserved.
+
+NeonFront, including its launcher, game binaries and assets, is proprietary.
+No permission is granted to copy, modify, redistribute or reverse engineer it,
+except to download and run the game for personal, non-commercial play.
+
+Third-party components keep their own licenses (GLFW, GLM, GLAD, ENet,
+nlohmann/json, OpenAL Soft, Rajdhani font); their notices ship inside the game package.
