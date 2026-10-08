@@ -36,20 +36,33 @@ Four heroes. Each one has a weapon, two abilities and an ultimate.
 
 ## Fight
 
-<img src="media/arena-complex.png" alt="Gameplay in the arena" width="100%">
+<img src="media/dockyard9-overview.png" alt="Dockyard 9 at night" width="100%">
 
 - **Team Deathmatch, Free-for-All and Control.** In Control, teams capture points and hold them to score.
-- **Four maps.** The largest is **Foundry**, a 140 m industrial yard with:
-  - sniper nests you reach by ladder or by a parkour route;
-  - crouch-only pipes and culverts;
-  - a warehouse and a container yard.
+- **Seven maps:** Dockyard 9, Foundry, Arena, Complex, Relay, Gatehouse and Reactor.
+- **Dockyard 9** is the new default map. It is a neon harbour with:
+  - a container yard;
+  - a cargo street;
+  - quay cranes;
+  - a control tower.
+- **Time of day.** Every map can be played at night, dusk, dawn or in daylight. Change it in **Settings**.
+- **Quick melee** on **V**. The Sniper's grappling hook now anchors to any surface.
 - **Server bots.** Bots fill empty slots and move around the map on their own.
 - **Killcam.** See the kill replayed from your killer's point of view.
 - **Minimap and pings.** Teammates always show on the minimap. Enemies you have spotted stay marked for a few seconds. Hold **G** or the middle mouse button to open the ping wheel, or double-tap it to mark an enemy.
 - **Match timer.** The host sets the match length in the lobby.
 - **Smooth online play.** The server keeps hits fair and the game stays smooth even with some ping.
 
-<img src="media/foundry-nest.png" alt="Foundry, seen from the sniper nest" width="100%">
+<table>
+  <tr>
+    <td><img src="media/dockyard9-street.png" alt="Dockyard 9 cargo street at dusk"></td>
+    <td><img src="media/dockyard9-yard.png" alt="Dockyard 9 container yard by day"></td>
+  </tr>
+  <tr>
+    <td><img src="media/arena-complex.png" alt="Gameplay in Complex"></td>
+    <td><img src="media/foundry-nest.png" alt="Foundry, seen from the sniper nest"></td>
+  </tr>
+</table>
 
 ## Train
 
@@ -79,6 +92,7 @@ The other release files (`manifest.json` and `NeonFront-<version>-win64.zip`) ar
 | Space | Jump |
 | Ctrl | Crouch |
 | Left mouse | Fire |
+| V | Quick melee |
 | R | Reload |
 | E / Q | Abilities |
 | X | Ultimate |
